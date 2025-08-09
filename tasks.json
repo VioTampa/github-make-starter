@@ -1,0 +1,13 @@
+{
+  "project": "Demo Automations",
+  "version": 1,
+  "tasks": [
+    {
+      "id": "T-001",
+      "title": "Seteaza Make webhook",
+      "priority": "medium",
+      "due": "2025-08-15",
+      "assignee": "me"
+    }
+  ]
+}
